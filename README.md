@@ -17,7 +17,7 @@
    9. Print all users with book's id
    10. Exit the program and earase all data
 * #### I used datastructures and algorithm to store and organize the data (**Vector**, **Binary Search Algorithm**, **Linear Search Algorithm**..etc)  
-* #### I also used structures ("struct") to store the data of the users and books (**struct User**, **struct Book**)
+* #### I also used structures ("struct") to build my own datastructure to store the data of the users and books (**struct User**, **struct Book**)
    
     
 ****
